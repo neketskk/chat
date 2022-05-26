@@ -1,0 +1,40 @@
+D:\Университет\ОВССТ\4 лабораторная\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\Университет\ОВССТ\4 лабораторная\Server\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\Университет\ОВССТ\4 лабораторная\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\Университет\ОВССТ\4 лабораторная\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\Университет\ОВССТ\4 лабораторная\Server\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\Университет\ОВССТ\4 лабораторная\Server\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\Университет\ОВССТ\4 лабораторная\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+D:\Университет\ОВССТ\4 лабораторная\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\Университет\ОВССТ\4 лабораторная\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\Университет\ОВССТ\4 лабораторная\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\Университет\ОВССТ\4 лабораторная\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\Университет\ОВССТ\4 лабораторная\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\Университет\ОВССТ\4 лабораторная\Server\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+C:\UNN\Ethernet\4 лабораторная\4 лабораторная\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\UNN\Ethernet\4 лабораторная\4 лабораторная\Server\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\UNN\Ethernet\4 лабораторная\4 лабораторная\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\UNN\Ethernet\4 лабораторная\4 лабораторная\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\UNN\Ethernet\4 лабораторная\4 лабораторная\Server\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\UNN\Ethernet\4 лабораторная\4 лабораторная\Server\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\UNN\Ethernet\4 лабораторная\4 лабораторная\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+C:\UNN\Ethernet\4 лабораторная\4 лабораторная\Server\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNN\Ethernet\4 лабораторная\4 лабораторная\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\UNN\Ethernet\4 лабораторная\4 лабораторная\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\UNN\Ethernet\4 лабораторная\4 лабораторная\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\UNN\Ethernet\4 лабораторная\4 лабораторная\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\UNN\Ethernet\4 лабораторная\4 лабораторная\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\UNN\Ethernet\4 лабораторная\4 лабораторная\Server\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+C:\Users\neket\Desktop\OVVST4-master\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\neket\Desktop\OVVST4-master\Server\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\neket\Desktop\OVVST4-master\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\neket\Desktop\OVVST4-master\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\neket\Desktop\OVVST4-master\Server\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\neket\Desktop\OVVST4-master\Server\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\neket\Desktop\OVVST4-master\Server\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\neket\Desktop\OVVST4-master\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\neket\Desktop\OVVST4-master\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\neket\Desktop\OVVST4-master\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\neket\Desktop\OVVST4-master\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\neket\Desktop\OVVST4-master\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\neket\Desktop\OVVST4-master\Server\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
